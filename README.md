@@ -1,3 +1,6 @@
+Stock control supervisors . Romeo Rosete ![ethereum-original](https://github.com/user-attachments/assets/9a03f27a-f3a3-458f-8748-4f18a243d5a0)
+![blockscan-logo-dark](https://github.com/user-attachments/assets/95185be0-2d0d-4743-a5ac-b0f7bfb51dc4)
+![blockscan-logo-light](https://github.com/user-attachments/assets/16435bf2-d4e4-41e3-a4f0-8f0a6950ac0c)
 # CRM App
 
 This project was generated with [App Builder Code Gen](https://www.infragistics.com/products/appbuilder).
