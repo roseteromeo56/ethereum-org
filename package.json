@@ -13,6 +13,7 @@
     "./crmapp.js": "./dist/src/crmapp.js"
   },
   "scripts": {
+    "dev": "tsc && concurrently -k -r \"tsc --watch\" \"wds\"",
     "start": "tsc && concurrently -k -r \"tsc --watch\" \"wds\"",
     "build": "rimraf dist && tsc && node --max-old-space-size=4096 node_modules/rollup/dist/bin/rollup -c rollup.config.mjs",
     "start:build": "web-dev-server --root-dir dist --app-index index.html --open",
